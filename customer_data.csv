@@ -1,0 +1,11 @@
+customer_id,date,region,product,sales
+C001,2025-01-15,North,Laptop,1200
+C002,2025-01-16,South,Phone,800
+C003,2025-01-17,East,Tablet,400
+C004,2025-01-18,West,Laptop,1300
+C001,2025-02-10,North,Phone,850
+C005,2025-02-12,South,Tablet,450
+C006,2025-02-15,East,Laptop,1250
+C002,2025-03-01,South,Phone,900
+C003,2025-03-05,East,Tablet,420
+C007,2025-03-10,West,Laptop,1400
